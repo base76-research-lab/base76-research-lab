@@ -29,8 +29,7 @@ This is an architectural problem. Our research addresses it at three levels:
 | Repo | Description | Status |
 |------|-------------|--------|
 | [cognos-proof-engine](https://github.com/base76-research-lab/cognos-proof-engine) | Trust verification gateway — epistemic + aleatoric uncertainty scoring, cryptographic audit trails, multi-provider LLM routing | PoC · 68 tests passing |
-
-*More repositories forthcoming as research matures.*
+| [token-compressor](https://github.com/base76-research-lab/token-compressor) | Semantic prompt compression — local LLM + embedding validation, 40–60% token reduction, MCP-compatible, Claude Code hook | Stable |
 
 ---
 
