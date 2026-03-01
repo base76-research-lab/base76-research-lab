@@ -62,6 +62,7 @@ Governance Alignment
 |------|-------------|--------|
 | [cognos-proof-engine](https://github.com/base76-research-lab/cognos-proof-engine) | Trust verification gateway — epistemic + aleatoric uncertainty scoring, cryptographic audit trails, multi-provider LLM routing | PoC · 68 tests |
 | [token-compressor](https://github.com/base76-research-lab/token-compressor) | Semantic prompt compression — local LLM + embedding validation, 40–60% token reduction, MCP-compatible | Stable |
+| [cognos-session-memory](https://github.com/base76-research-lab/cognos-session-memory) | Trust-scored session persistence — verified alternative to `/compact`, cross-session context injection, MCP + Claude Code integration | Stable |
 
 ---
 
