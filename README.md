@@ -1,58 +1,95 @@
-# Base76 Research Lab
+```
+██████╗  █████╗ ███████╗███████╗███████╗ ██████╗
+██╔══██╗██╔══██╗██╔════╝██╔════╝╚════██║██╔════╝
+██████╔╝███████║███████╗█████╗      ██╔╝███████╗
+██╔══██╗██╔══██║╚════██║██╔══╝     ██╔╝ ╚════██║
+██████╔╝██║  ██║███████║███████╗   ██║  ██████╔╝
+╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝  ╚═════╝
+                    RESEARCH LAB
+```
 
-**The only independent AI research lab in the Nordics focused on frontier
-epistemic AI architecture and governance.**
+**The only independent AI research lab in the Nordics
+focused on frontier epistemic AI architecture and governance.**
 
-We build systems and theory for AI that knows what it doesn't know.
+> *AI that knows what it doesn't know.*
+
+[![Papers](https://img.shields.io/badge/papers-3%20published-8b5cf6)](https://base76.se)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4015--2357-a6ce39)](https://orcid.org/0009-0000-4015-2357)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue)]()
+[![Location](https://img.shields.io/badge/location-Sjöbo%2C%20Sweden-yellow)]()
+[![Web](https://img.shields.io/badge/web-base76.se-111827)](https://base76.se)
 
 ---
 
-## Research focus
+## The problem we work on
 
-Contemporary AI systems are optimized to appear confident. Reinforcement
-learning from human feedback systematically penalizes expressed uncertainty —
-producing models that perform certainty rather than represent it.
+Contemporary AI systems are optimized to appear confident.
+Reinforcement learning from human feedback systematically penalizes expressed uncertainty —
+producing models that *perform* certainty rather than represent it.
 
-This is an architectural problem. Our research addresses it at three levels:
+This is not a UX problem. It is an **architectural problem** —
+measurable, structural, and consequential for any system
+making decisions in regulated or safety-critical contexts.
 
-- **Epistemic architecture** — how uncertainty is measured, preserved, and
-  communicated across AI inference pipelines
-- **Trust verification** — cryptographic and probabilistic methods for proving
-  the epistemic state of AI decisions
-- **Governance alignment** — mapping epistemic AI properties to EU AI Act,
-  GDPR, and emerging compliance frameworks
+**We build the layer that fixes it.**
+
+---
+
+## Research agenda
+
+```
+Epistemic AI Architecture
+├── How does uncertainty survive alignment?
+├── What is the minimum signal needed for genuine metacognition?
+└── Can epistemic state be cryptographically provable?
+
+Trust Verification Infrastructure
+├── Uncertainty-gated inference pipelines
+├── Audit trails for AI decisions
+└── EU AI Act compliance by design
+
+Governance Alignment
+├── Mapping epistemic properties to regulatory frameworks
+├── Independent benchmarking of frontier model calibration
+└── Applied AI philosophy as a formal research discipline
+```
 
 ---
 
 ## Projects
 
-| Repo | Description | Status |
+| Repo | What it does | Status |
 |------|-------------|--------|
-| [cognos-proof-engine](https://github.com/base76-research-lab/cognos-proof-engine) | Trust verification gateway — epistemic + aleatoric uncertainty scoring, cryptographic audit trails, multi-provider LLM routing | PoC · 68 tests passing |
-| [token-compressor](https://github.com/base76-research-lab/token-compressor) | Semantic prompt compression — local LLM + embedding validation, 40–60% token reduction, MCP-compatible, Claude Code hook | Stable |
+| [cognos-proof-engine](https://github.com/base76-research-lab/cognos-proof-engine) | Trust verification gateway — epistemic + aleatoric uncertainty scoring, cryptographic audit trails, multi-provider LLM routing | PoC · 68 tests |
+| [token-compressor](https://github.com/base76-research-lab/token-compressor) | Semantic prompt compression — local LLM + embedding validation, 40–60% token reduction, MCP-compatible | Stable |
 
 ---
 
 ## Research output
 
-**Wikström, B. (2026).** *When Alignment Reduces Uncertainty: Epistemic
-Variance Collapse and Its Implications for Metacognitive AI.*
-DOI: [10.5281/zenodo.18731535](https://doi.org/10.5281/zenodo.18731535)
+| Paper | Year | DOI |
+|-------|------|-----|
+| *When Alignment Reduces Uncertainty: Epistemic Variance Collapse and Its Implications for Metacognitive AI* | 2026 | [10.5281/zenodo.18731535](https://doi.org/10.5281/zenodo.18731535) |
+| *The Turn 5 Event: Empirical Detection of AI Self-Referential Coherence through the FNC Framework* | 2025 | PhilArchive |
+| *From Frequency to Field: Bridging Two Models of Consciousness* | 2025 | PhilArchive |
 
-Full publication list: [base76.se](https://base76.se)
+Full list: [base76.se](https://base76.se)
 
 ---
 
 ## About
 
-Base76 Research Lab is an independent research organization based in Sjöbo,
-Sweden. Founded and led by **Björn Wikström** — independent AI researcher
-and systems philosopher.
+**Björn Wikström** — Independent AI researcher and systems philosopher.
+Founder and director, Base76 Research Lab, Sjöbo, Sweden.
 
-ORCID: [0009-0000-4015-2357](https://orcid.org/0009-0000-4015-2357)
-Web: [base76.se](https://base76.se)
-Contact: via base76.se
+Working at the intersection of epistemology, AI architecture, and governance —
+building theory and tools for AI systems that can accurately represent
+what they know and what they don't.
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4015--2357-a6ce39)](https://orcid.org/0009-0000-4015-2357)
+[![Web](https://img.shields.io/badge/base76.se-111827?style=flat)](https://base76.se)
+[![Email](https://img.shields.io/badge/bjorn%40base76.se-333333?style=flat)](mailto:bjorn@base76.se)
 
 ---
 
-*MIT-licensed where applicable. Research published open access.*
+*Open source · Open access · MIT licensed*
