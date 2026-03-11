@@ -40,6 +40,7 @@ Independent AI research lab (Sweden) focused on epistemic AI architecture, mecha
 ## Open Collaboration And Support
 
 Temporary support path while payment pages are being finalized:
+- [Patreon](https://www.patreon.com/c/AppliedAiPhilosophy)
 - [Support contact form](https://base76.se/contact/)
 - [Direct support email](mailto:bjorn@base76.se?subject=Support%20Base76%20Research)
 
