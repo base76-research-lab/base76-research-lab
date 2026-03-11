@@ -18,6 +18,7 @@ focused on frontier epistemic AI architecture and governance.**
 [![MIT License](https://img.shields.io/badge/license-MIT-blue)]()
 [![Location](https://img.shields.io/badge/location-Sjöbo%2C%20Sweden-yellow)]()
 [![Web](https://img.shields.io/badge/web-base76.se-111827)](https://base76.se)
+[![MI Front Door](https://img.shields.io/badge/MI%20Front%20Door-GitHub%20Pages-0b7285)](https://base76-research-lab.github.io/Mechanistic-Interpretability/)
 
 ---
 
